@@ -1,0 +1,32 @@
+/* * {
+  margin: 0px;
+  padding: 0px;
+} */
+
+body {
+  margin: 15px;
+}
+
+.dotted {
+  border: dotted 2px blue;
+}
+
+.avatar {
+  width: 90px;
+  height: 135px;
+}
+
+.card {
+  color: rgb(37, 37, 37);
+  background-color: rgb(223, 252, 232);
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  width: 330px;
+  padding: 20px;
+  border-bottom: 6px solid rgb(167, 230, 255);
+
+  display: flex;
+  margin: 0px auto;
+  justify-content: space-between;
+}
